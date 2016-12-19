@@ -1,2 +1,2 @@
-# lukedovre.github.io
+# ldovre.github.io
 Resume Project

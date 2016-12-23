@@ -4,33 +4,27 @@ color: blue
 
 body {
   font-family: 'Times New Roman', sans-serif;
-  background-image: url('http://s1380.photobucket.com/user/ldovre/media/IIHRportrait_zpsxb2fmjzl.jpg.html');
+  background-image: url([URL=http://s1380.photobucket.com/user/ldovre/media/IIHRportrait_zpsxb2fmjzl.jpg.html][IMG]http://i1380.photobucket.com/albums/ah179/ldovre/IIHRportrait_zpsxb2fmjzl.jpg[/IMG][/URL]);
   background-position: center top;
   background-size: cover;
   margin: 0;
   
 }
 
+.contact {
+  padding: 30px;
+  border: 1px solid #000;
+  text-align: right;
+}
+
 .contentItem {
   
   padding: 30px;
   border: 1px solid #000;
-  text-align: center;
-}
-
-.codingExperience {
-  padding: 30px;
-  border: 1px solid #000;
-  text-align: center;
-}
-
-.page-description {
-  padding: 30px;
-  border: 1px solid #000;
-  text-align: center;
+  text-align: left;
 }
 
 
-.contacts{
-  float: right;
-}
+
+
+

@@ -20,6 +20,12 @@ body {
   
 }
 
+.portrait {
+  border: 5px solid #fff;
+  margin: 20px;
+  float: right;
+}
+
 .contact {
   padding: 30px;
   border: 1px solid #000;

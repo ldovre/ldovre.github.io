@@ -10,6 +10,9 @@ html, body {
   line-height: 1.5;
 }
 
+.date {
+  float: right;
+}
 .h1 {
   font-family: 'Times New Roman', sans-serif;
 }

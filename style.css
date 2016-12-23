@@ -57,6 +57,15 @@ body {
   text-align: left;
 }
 
+.content {
+  background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg');
+	background-position: center top;
+	background-size: cover;
+	padding: 250px 0;
+	margin: 30px;
+	text-shadow: 0 2px #000000;
+	font-family: 'Trebuchet MS', 'Helvetica';
+}
 .contentItemChainsaw {
   
   padding: 30px;

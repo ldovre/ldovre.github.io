@@ -2,9 +2,18 @@ p {
 color: blue
 }
 
+html, body {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+
 body {
   font-family: 'Times New Roman', sans-serif;
-  background-image: url([URL=http://s1380.photobucket.com/user/ldovre/media/IIHRportrait_zpsxb2fmjzl.jpg.html][IMG]http://i1380.photobucket.com/albums/ah179/ldovre/IIHRportrait_zpsxb2fmjzl.jpg[/IMG][/URL]);
+  background-image: <a href="http://s1380.photobucket.com/user/ldovre/media/IIHRportrait_zpsxb2fmjzl.jpg.html" target="_blank"><img src="http://i1380.photobucket.com/albums/ah179/ldovre/IIHRportrait_zpsxb2fmjzl.jpg" border="0" alt=" photo IIHRportrait_zpsxb2fmjzl.jpg"/></a>;
   background-position: center top;
   background-size: cover;
   margin: 0;

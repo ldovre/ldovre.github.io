@@ -31,7 +31,7 @@ html, body {
 
 body {
   font-family: 'Times New Roman', sans-serif;
-  background-image: <img src="http://i1380.photobucket.com/albums/ah179/ldovre/IIHRportrait_zpsxb2fmjzl.jpg" border="0" alt=" photo IIHRportrait_zpsxb2fmjzl.jpg"/>;
+  
   background-position: center top;
   background-size: cover;
   margin: 0;
@@ -58,7 +58,7 @@ body {
 }
 
 .content {
-  background-image: <img src="http://i1380.photobucket.com/albums/ah179/ldovre/IIHRportrait_zpsxb2fmjzl.jpg" border="0" alt=" photo IIHRportrait_zpsxb2fmjzl.jpg"/>;
+  background-image: url(http://i1380.photobucket.com/albums/ah179/ldovre/IIHRportrait_zpsxb2fmjzl.jpg);
 	background-position: center top;
 	background-size: cover;
 	padding: 250px 0;

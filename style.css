@@ -59,7 +59,7 @@ body {
 }
 
 .content {
-  !background-image: url(https://lh6.ggpht.com/ncmQupOqqkHDjGVo432fZmiy3E28gfqkeY5U4ulI0IpsFWJbdUouO7rqEKpLwxxGLjM=h900);
+  background-image: url(http://media.gettyimages.com/videos/aerial-low-over-canopy-of-dense-equatorial-forest-french-guiana-video-id885-2?s=640x640);
 	background-position: center top;
 	background-size: cover;
 	padding: 250px 0;
@@ -72,9 +72,6 @@ body {
   padding: 30px;
   border: 1px solid #000;
   text-align: left;
-  background-image: url(http://www.richardsonsaw.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/t/stihl-ms211-cbe-chainsaw-dallas.png");
-  background-position: center top;
-  background-size: cover;
   margin: 0;
 }
 

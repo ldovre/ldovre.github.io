@@ -58,7 +58,7 @@ body {
 }
 
 .content {
-  background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg');
+  background-image: <img src="http://i1380.photobucket.com/albums/ah179/ldovre/IIHRportrait_zpsxb2fmjzl.jpg" border="0" alt=" photo IIHRportrait_zpsxb2fmjzl.jpg"/>;
 	background-position: center top;
 	background-size: cover;
 	padding: 250px 0;

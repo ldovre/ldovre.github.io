@@ -12,12 +12,12 @@ html, body {
 }
 
 body {
-  font-family: 'Garamond', sans-serif;
+  font-family: arial, 'arial', sans-serif;
   
   background-position: center top;
   background-size: cover;
   margin: 0;
-	color: #ffffff;
+	color: antiquewhite;
 	
   
 }
@@ -60,16 +60,17 @@ body {
 
 .contact {
   padding: 30px;
-  border: 1px solid #000;
+  border: 1px solid #0FF;
   text-align: left;
 }
 
 .contentItem {
   
   padding: 30px;
-  border: 1px solid #000;
+  border: 1px solid #0FF;
   text-align: left;
-	color: #00FFAA;
+	color: antiquewhite
+		font-size: 40px;
 }
 
 .content {

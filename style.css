@@ -59,7 +59,7 @@ body {
 }
 
 .content {
-  background-image: url(https://lh6.ggpht.com/ncmQupOqqkHDjGVo432fZmiy3E28gfqkeY5U4ulI0IpsFWJbdUouO7rqEKpLwxxGLjM=h900);
+  !background-image: url(https://lh6.ggpht.com/ncmQupOqqkHDjGVo432fZmiy3E28gfqkeY5U4ulI0IpsFWJbdUouO7rqEKpLwxxGLjM=h900);
 	background-position: center top;
 	background-size: cover;
 	padding: 250px 0;
